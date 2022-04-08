@@ -1,1 +1,1 @@
-# SI_2022_lab1_173173
+Ljubomir Ivanov  173173
