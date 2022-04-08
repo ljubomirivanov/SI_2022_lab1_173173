@@ -1,59 +1,110 @@
+Modify item #4 and add item #6
+
+@ljubomirivanov
+ljubomirivanov committed 1 minute ago
+  
+Merge pull request #5 from ljubomirivanov/main 
+
+Modify item #4 and add item #6
+@ljubomirivanov
+ljubomirivanov committed 2 minutes ago
+  
+Modify item #4 and add item #6
+
+@ljubomirivanov
+ljubomirivanov committed 3 minutes ago
+  
+Merge branch 'main' into Brench2
+
+@ljubomirivanov
+ljubomirivanov committed 3 minutes ago
+  
+Add item #6
+
+@ljubomirivanov
+ljubomirivanov committed 5 minutes ago
+  
+“Modify item #4
+
+@ljubomirivanov
+ljubomirivanov committed 5 minutes ago
+  
+Update shopping_list.txt
+
+@ljubomirivanov
+ljubomirivanov committed 6 minutes ago
+  
+Modify item #4 and add item #6
+
+@ljubomirivanov
+ljubomirivanov committed 7 minutes ago
+  
+Update 173173.txt
+
+@ljubomirivanov
+ljubomirivanov committed 8 minutes ago
+  
+Modify item #4
+
+@ljubomirivanov
+ljubomirivanov committed 10 minutes ago
+  
 Merge pull request #2 from ljubomirivanov/Brench1 
 
 Change quantity of item #5
 @ljubomirivanov
-ljubomirivanov committed 2 minutes ago
+ljubomirivanov committed 11 minutes ago
   
 Change quantity of item #2
 
 @ljubomirivanov
-ljubomirivanov committed 3 minutes ago
+ljubomirivanov committed 12 minutes ago
   
 Change quantity of item #5
 
 @ljubomirivanov
-ljubomirivanov committed 3 minutes ago
+ljubomirivanov committed 12 minutes ago
   
 Create 173173.txt
 
 @ljubomirivanov
-ljubomirivanov committed 5 minutes ago
+ljubomirivanov committed 14 minutes ago
   
 Update shopping_list.txt 
 
 Add quantities to the items.
 @ljubomirivanov
-ljubomirivanov committed 18 minutes ago
+ljubomirivanov committed 27 minutes ago
   
 Merge pull request #1 from ljubomirivanov/ljubomirivanov 
 
 Create shopping_list.txt
 @ljubomirivanov
-ljubomirivanov committed 20 minutes ago
+ljubomirivanov committed 29 minutes ago
   
 Create shopping_list.txt
 
 @ljubomirivanov
-ljubomirivanov committed 21 minutes ago
+ljubomirivanov committed 30 minutes ago
   
 Delete shopping_list.txt
 
 @ljubomirivanov
-ljubomirivanov committed 21 minutes ago
+ljubomirivanov committed 30 minutes ago
   
 Create shopping_list.txt 
 
 Add 5 items to the shopping list
 @ljubomirivanov
-ljubomirivanov committed 22 minutes ago
+ljubomirivanov committed 31 minutes ago
   
 Update README.md
 
 @ljubomirivanov
-ljubomirivanov committed 27 minutes ago
+ljubomirivanov committed 36 minutes ago
   
 Initial commit
 
 @ljubomirivanov
-ljubomirivanov committed 27 minutes ago
+ljubomirivanov committed 36 minutes ago
   
